@@ -47,7 +47,7 @@ Run `python assistant {model_name}.py` to start the virtual assistant. Just run 
 
 - "What time is it?"
 - "Search YouTube for funny videos" 
-- "Send an email to nafisrayan123@gmail.com"
+- "Send an email to charanasri2707@gmail.com"
 - "Take a screenshot"
 
 See the code comments for full documentation of features.
